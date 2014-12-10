@@ -19,7 +19,14 @@ namespace JSONFileStore
         /// <typeparam name="T">Type of object to return</typeparam>
         public T Read<T>()
         {
-            var json = FileHelper.Read(GetFullFileName());
+            var fullFileName = GetFullFileName();
+
+            if (!FileHelper.Exists(fullFileName))
+            {
+                return default(T);
+            }
+
+            var json = FileHelper.Read(fullFileName);
             return JsonConvert.DeserializeObject<T>(json);
         }
 

@@ -25,6 +25,17 @@ namespace JSONFileStore.Test
         }
 
         [TestMethod]
+        public void ReadNoneExistingFileTest()
+        {
+            const string filename = "ReadNoneExistingFileTest.txt";
+            var fileStore = new FileStore(TempDir, filename);
+
+            var person = fileStore.Read<Person>();
+
+            Assert.IsTrue(person == null);
+        }
+
+        [TestMethod]
         public void ReadSimpleTest()
         {
             const string filename = "ReadSimpleTest.txt";
