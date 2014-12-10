@@ -1,0 +1,6 @@
+c:\users\schroyen niels\documents\visual studio 2012\Projects\JSONFileStore\JSONFileStore\bin\Debug\JSONFileStore.dll
+c:\users\schroyen niels\documents\visual studio 2012\Projects\JSONFileStore\JSONFileStore\bin\Debug\JSONFileStore.pdb
+c:\users\schroyen niels\documents\visual studio 2012\Projects\JSONFileStore\JSONFileStore\obj\Debug\JSONFileStore.csprojResolveAssemblyReference.cache
+c:\users\schroyen niels\documents\visual studio 2012\Projects\JSONFileStore\JSONFileStore\obj\Debug\JSONFileStore.dll
+c:\users\schroyen niels\documents\visual studio 2012\Projects\JSONFileStore\JSONFileStore\obj\Debug\JSONFileStore.pdb
+C:\Users\schroyen niels\Documents\Visual Studio 2012\Projects\JSONFileStore\JSONFileStore\bin\Debug\Newtonsoft.Json.dll
