@@ -1,0 +1,8 @@
+C:\Users\schroyen niels\Documents\GitHub\JSONFileStore\JSONFileStore\JSONFileStore.Test\bin\Release\JSONFileStore.Test.dll
+C:\Users\schroyen niels\Documents\GitHub\JSONFileStore\JSONFileStore\JSONFileStore.Test\bin\Release\JSONFileStore.Test.pdb
+C:\Users\schroyen niels\Documents\GitHub\JSONFileStore\JSONFileStore\JSONFileStore.Test\bin\Release\JSONFileStore.dll
+C:\Users\schroyen niels\Documents\GitHub\JSONFileStore\JSONFileStore\JSONFileStore.Test\bin\Release\Newtonsoft.Json.dll
+C:\Users\schroyen niels\Documents\GitHub\JSONFileStore\JSONFileStore\JSONFileStore.Test\bin\Release\JSONFileStore.pdb
+C:\Users\schroyen niels\Documents\GitHub\JSONFileStore\JSONFileStore\JSONFileStore.Test\obj\Release\JSONFileStore.Test.csprojResolveAssemblyReference.cache
+C:\Users\schroyen niels\Documents\GitHub\JSONFileStore\JSONFileStore\JSONFileStore.Test\obj\Release\JSONFileStore.Test.dll
+C:\Users\schroyen niels\Documents\GitHub\JSONFileStore\JSONFileStore\JSONFileStore.Test\obj\Release\JSONFileStore.Test.pdb

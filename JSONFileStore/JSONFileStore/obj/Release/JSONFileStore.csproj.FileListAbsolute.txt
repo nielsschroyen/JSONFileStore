@@ -1,0 +1,5 @@
+C:\Users\schroyen niels\Documents\GitHub\JSONFileStore\JSONFileStore\JSONFileStore\bin\Release\JSONFileStore.dll
+C:\Users\schroyen niels\Documents\GitHub\JSONFileStore\JSONFileStore\JSONFileStore\bin\Release\JSONFileStore.pdb
+C:\Users\schroyen niels\Documents\GitHub\JSONFileStore\JSONFileStore\JSONFileStore\bin\Release\Newtonsoft.Json.dll
+C:\Users\schroyen niels\Documents\GitHub\JSONFileStore\JSONFileStore\JSONFileStore\obj\Release\JSONFileStore.dll
+C:\Users\schroyen niels\Documents\GitHub\JSONFileStore\JSONFileStore\JSONFileStore\obj\Release\JSONFileStore.pdb
