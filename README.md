@@ -2,7 +2,7 @@ JSONFileStore
 =============
 
 Simple JSONFileStore using JSON.NET.
-Lets you persist simple object  to a textfile.
+Lets you persist a simple object to a textfile.
 Usefull for simple config files.
 
 Features
